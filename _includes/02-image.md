@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Headshot](https://www.facebook.com/photo.php?fbid=560201430660214&l=fe0fc47b84)
